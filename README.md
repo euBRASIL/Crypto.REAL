@@ -1,8 +1,7 @@
 Criptoreal Core 1.1.0
 ===============================
 
-
-https://www.criptoreal.org
+https://e-cpf.com
 
 
 What is Criptoreal?
@@ -15,8 +14,7 @@ are carried out collectively by the network. Criptoreal Core is the name of the 
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Criptoreal Core software, see https://www.criptoreal.org/en/.
-
+the Criptoreal Core softwar.
 
 License
 -------
@@ -27,9 +25,8 @@ information or see https://opensource.org/licenses/MIT.
 Development Process
 -------------------
 
-The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/criptoreal/criptoreal/tags) are created to indicate new official,
-stable release versions of Criptoreal Core.
+The `master` branch is meant to be stable. Development is normally done in separate branches
+por stable release versions of Criptoreal Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
